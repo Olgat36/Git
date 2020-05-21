@@ -3,8 +3,10 @@ package test;
 public class Login {
     public static void main(String[] args) {
         System.out.println("Hello world");
+        System.out.println("Hello world");
+        System.out.println("I Like");
         
-        System.out.println("I like java")
+        System.out.println("I like java");
 
         //this line is written from ItelliJ
 
